@@ -1,6 +1,0 @@
-<html>
-
- test caca
-
-
- </html>
